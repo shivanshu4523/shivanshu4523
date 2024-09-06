@@ -16,12 +16,12 @@
 - JWT Authentication & API Integration  <br>
 - UI/UX designing, Responsive Web Design</small> <br><br>
 
-<small><h4>🎯 Goals:</h4>  
+<h4>🎯 Goals:</h4>  
 - Master Data Structures & Algorithms 💡  <br>
 - Secure a job as a Software developer 💼  <br>
 - Continuously learn and contribute to open-source 🌐</small> <br><br>
 
-<small>Feel free to check out my repositories and projects! ✨  <br>
+Feel free to check out my repositories and projects! ✨  <br>
 📫 Let's connect: [https://linkedin.com/in/shivanshu2468]</small> <br><br>
 
 ## <h2>🌐 Socials:</h2>
