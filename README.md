@@ -7,14 +7,14 @@
 
 <small>🔧 **Skills & Technologies:**  <br>
 - MERN Stack (MongoDB, Express, React, Node.js)  <br>
-- JavaScript, Bootstrap 5  <br>
+- JavaScript, Bootstrap 5, HTML, CSS, Tailwind CSS, JQuery  <br>
 - MongoDB, MySQL and Database Management  <br>
 - JWT Authentication & API Integration  <br>
-- EmailJS, Responsive Web Design</small> <br><br>
+- UI/UX designing, Responsive Web Design</small> <br><br>
 
 <small>🎯 **Goals:**  <br>
 - Master Data Structures & Algorithms 💡  <br>
-- Secure a job as a software developer 💼  <br>
+- Secure a job as a Software developer 💼  <br>
 - Continuously learn and contribute to open-source 🌐</small> <br><br>
 
 <small>Feel free to check out my repositories and projects! ✨  <br>
