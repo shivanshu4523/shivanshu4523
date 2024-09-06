@@ -1,27 +1,31 @@
-# 💫 About Me <br><br>
+# <h1>💫 About Me</h1> <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="My GIF" width="300" />
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="My GIF" width="300" />
+</p> <br>
 
+<h2>👋 Hi there! I'm Shivanshu Srivastava 👨‍💻</h2> <br>
+<h3>🚀 Full-Stack MERN Developer | Final Year B.Tech (CSE) Student</h3> <br>
 
-👋 **Hi there! I'm Shivanshu Srivastava** 👨‍💻  <br>
-🚀 **Full-Stack MERN Developer | Final Year B.Tech (CSE) Student**  <br><br>
+<small>💻 I love building projects that solve real-world problems! With experience in the MERN stack, I enjoy developing both the front-end and back-end of web applications. Currently, I'm working on my major project and preparing for upcoming placements.</small> <br>
 
-<small>💻 I love building projects that solve real-world problems! With experience in the MERN stack, I enjoy developing both the front-end and back-end of web applications. Currently, I'm working on my major project and preparing for upcoming placements.</small> <br><br>
-
-<small>🔧 **Skills & Technologies:**  <br>
+<small><h4>🔧 Skills & Technologies:</h4>  
 - MERN Stack (MongoDB, Express, React, Node.js)  <br>
 - JavaScript, Bootstrap 5, HTML, CSS, Tailwind CSS, JQuery  <br>
 - MongoDB, MySQL and Database Management  <br>
 - JWT Authentication & API Integration  <br>
 - UI/UX designing, Responsive Web Design</small> <br><br>
 
-<small>🎯 **Goals:**  <br>
+<small><h4>🎯 Goals:</h4>  
 - Master Data Structures & Algorithms 💡  <br>
 - Secure a job as a Software developer 💼  <br>
 - Continuously learn and contribute to open-source 🌐</small> <br><br>
 
 <small>Feel free to check out my repositories and projects! ✨  <br>
-📫 Let's connect: [https://linkedin.com/in/shivanshu2468]</small>
+📫 Let's connect: [https://linkedin.com/in/shivanshu2468]</small> <br><br>
+
+## <h2>🌐 Socials:</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshu2468)
 
 
 ## 🌐 Socials:
