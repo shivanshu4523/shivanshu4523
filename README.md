@@ -5,7 +5,7 @@
 </p> <br>
 
 <h2>👋 Hi there! I'm Shivanshu Srivastava 👨‍💻</h2> <br>
-<h3>🚀 Full-Stack MERN Developer | Final Year B.Tech (CSE) Student</h3> <br>
+<h3>🚀 Full-Stack Developer | Mern Stack | UI/UX | Final Year B.Tech (CSE) Student</h3> <br>
 
 💻 I love building projects that solve real-world problems! With experience in the MERN stack, I enjoy developing both the front-end and back-end of web applications. Currently, I'm working on my major project and preparing for upcoming placements.</small> <br>
 
