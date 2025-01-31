@@ -5,11 +5,16 @@
 </p> <br>
 
 <h2>👋 Hi there! I'm Shivanshu Srivastava 👨‍💻</h2> <br>
-<h3>🚀 Web Developer | UI/UX | Frontend Developer </h3> <br>
+<h3>🚀 Full-Stack Web Developer | MERN Stack | UI/UX | Frontend Developer </h3> <br>
 
 💻 I love building projects that solve real-world problems! With experience in the MERN stack, I enjoy developing both the front-end and back-end of web applications. Currently, I'm working on my major project and preparing for upcoming placements.</small> <be>
 
-
+🔧 Skills & Technologies:</h4>  
+- MERN Stack (MongoDB, Express, React, Node.js)  <br>
+- JavaScript, Bootstrap 5, HTML, CSS, Tailwind CSS, JQuery  <br>
+- MongoDB, MySQL and Database Management  <br>
+- JWT Authentication & API Integration  <br>
+- UI/UX designing, Responsive Web Design</small> <br><br>  
 
 <h4>🎯 Goals:</h4>  
 - Master Data Structures & Algorithms 💡  <br>
