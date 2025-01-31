@@ -9,6 +9,7 @@
 
 💻 I love building projects that solve real-world problems! With experience in the MERN stack, I enjoy developing both the front-end and back-end of web applications. Currently, I'm working on my major project and preparing for upcoming placements.</small> <be>
 
+
 🔧 Skills & Technologies:</h4>  
 - MERN Stack (MongoDB, Express, React, Node.js)  <br>
 - JavaScript, Bootstrap 5, HTML, CSS, Tailwind CSS, JQuery  <br>
